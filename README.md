@@ -17,7 +17,7 @@ Conducted financial and election data analysis using Python to surface key insig
 ## Data Analytics
 ### Budget Analysis
 1. Sample Output
-`
+```python
 Financial Analysis
 -------------------------
 Total Months: 85
@@ -25,4 +25,4 @@ Total: $21475215
 Average Change: $-8410.05
 Greatest Increase in Profits: Aug-16 ($1862002)
 Greatest Decrease in Profits: Feb-14 ($-1825558)
-`
+```
