@@ -45,7 +45,9 @@ Raymon Anthony Doane: 3.139% (11606)
 Winner: Diana DeGette
 -------------------------
 ```
-2. Recommendations
+2. Insights & Recommendations
+- A total of 369,711 votes were cast in the election, showing significant participation. This large number indicates broad public interest in the election, providing a solid dataset to analyze voting patterns.
+- Diana DeGette was the clear winner with 73.812% of the votes, indicating overwhelming support compared to her opponents. Charles Casper Stockham received about 23%, and Raymon Anthony Doane received a relatively small portion, with 3.1% of the vote.
 
 ## Technologies & Tools Used
 * **Python** (CSV handling, dictionary operations, data transformation)
